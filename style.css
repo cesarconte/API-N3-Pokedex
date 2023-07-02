@@ -65,3 +65,9 @@ h1 {
   margin: 15px 0 7px;
   letter-spacing: 1px;
 }
+
+#load-more {
+  margin: 40px auto;
+  padding: 6px 12px;
+  border-radius: 6px;
+}
